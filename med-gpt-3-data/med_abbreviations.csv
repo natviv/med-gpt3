@@ -1,32 +1,31 @@
 ID,Text,Completion
-1,The pt has lbp,The patient has lower back pain
-2,The pt is a 30 y/o m,The patient is a 30 year old male
-3,VSS after Tx,Vital signs stable after treatment
-4,c/o gi pain,complains of gastrointestinal pain
-5,tx d/c due to c/o h/a,Treatment discontinued due to compaints of headache
-6,abx dosage recommended,Antibiotics dosage recommended
-7,thx required,therapy required
-8,The pt requires lbp pt,The patient requires lower back pain physical therapy
-9,MBC likely impaired due to covid,Maximum breathing capacity likely impaired due to covid
-10,The pt has recurring history of jt pain,The patient has recurring history of joint pain
-11,Nacl low in pt,Sodium chloride low in patient
-12,LOS = 18 days,Lenght of stay = 18 days
-13,"LOC low, pt likely in coma","Level of consciouness low, patient likely in coma"
-14,PA will recommend next steps,Physician's Assistant will recommend next steps
-15,NSA detected,No specific abnormality detected
-16,The Pt when admitted was PN,The patient when admitted was pourly nourished
-17,PN on duty administered the drugs,Practical nurse on duty administered the drugs
-18,Low o2 sat. detected in pt,Low oxygen saturation detected in patient
-19,"PTA, vss were not normal","Prior to admission, vital signs were not normal"
-20,UTI as primary cause of fever,Urinary tract infection as primary cause of fever
-21,Pt put on vent,Patient put on ventilator
+1,The pt has lbp,The patient has lower back pain.
+2,The pt is a 30 y/o m,The patient is a 30 year old male.
+3,VSS after Tx,Vital signs stable after treatment.
+4,c/o gi pain,complains of gastrointestinal pain.
+5,tx d/c due to c/o h/a,Treatment discontinued due to compaints of headache.
+6,abx dosage recommended,Antibiotics dosage recommended.
+7,thx required,therapy required.
+8,The pt requires lbp pt,The patient requires lower back pain physical therapy.
+9,MBC likely impaired due to covid,Maximum breathing capacity likely impaired due to covid.
+10,The pt has recurring history of jt pain,The patient has recurring history of joint pain.
+11,Nacl low in pt,Sodium chloride low in patient.
+12,LOS = 18 days,Lenght of stay = 18 days.
+13,LOC low, pt likely in coma,Level of consciouness low, patient likely in coma.
+14,PA will recommend next steps,Physician's Assistant will recommend next steps.
+15,NSA detected,No specific abnormality detected.
+16,The Pt when admitted was PN,The patient when admitted was pourly nourished.
+17,PN on duty administered the drugs,Practical nurse on duty administered the drugs.
+18,Low o2 sat. detected in pt,Low oxygen saturation detected in patient.
+19,PTA, vss were not normal,Prior to admission, vital signs were not normal.
+20,UTI as primary cause of fever,Urinary tract infection as primary cause of fever.
+21,Pt put on vent,Patient put on ventilator.
 22,fx detected in femur,fracture detected in femur
-23,GNA to assist in care of pt,Geriatric Nurse Assistant to assist in care of patient
-24,GCS low at admission,Glasgow Coma scale low at admission
-25,Gt. tr required for pt,Gait training required for patient
-26,Pt dc ama,Patient discharged against medical advice
-27,CXR required to assess tx,Chest x-ray required to assess treatment
-28,PET inconclusive,"positron emission
-tomography inconclusive"
-29,oe pt recommended to be placed under obs for 24 hours,"On examination, patient recommended to placed under observation for 24 hours"
-30,pt dnka,Patient did not keep appointment
+23,GNA to assist in care of pt,Geriatric Nurse Assistant to assist in care of patient.
+24,GCS low at admission,Glasgow Coma scale low at admission.
+25,Gt. tr required for pt,Gait training required for patient.
+26,Pt dc ama,Patient discharged against medical advice.
+27,CXR required to assess tx,Chest x-ray required to assess treatment.
+28,PET inconclusive,positron emission tomography inconclusive.
+29,oe pt recommended to be placed under obs for 24 hours,On examination patient recommended to placed under observation for 24 hours.
+30,pt dnka,Patient did not keep appointment.
